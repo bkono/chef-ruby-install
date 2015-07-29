@@ -3,9 +3,15 @@
 Installs postmodern's [ruby-install](https://github.com/postmodern/ruby-install)
 and optionally Ruby versions.
 
+## BK Notes: Why the fork?
+
+This fork was needed to create better compatibility with my work-in-progress kitchenplan config.
+Specifically, I wanted to ensure homebrew was utilized for the install on mac_os_x platform family.
+
 ## Dependencies
 
 - git
+- homebrewalt
 
 ## Recipes
 
